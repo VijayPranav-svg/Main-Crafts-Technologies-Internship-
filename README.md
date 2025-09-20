@@ -1,7 +1,7 @@
 # Main-Crafts-Technologies-Internship-
 All The Files Regarding The Internships are mentioned in this repository in their respective task folders
 
-# Task 1 ---------------------------------------------------------
+# Task 1 
 # MainCrafts Landing Page
 
 A modern, responsive landing page built as part of my Full Stack Web Development Internship Task 1 at MainCrafts.
